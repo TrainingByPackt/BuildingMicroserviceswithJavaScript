@@ -4,22 +4,23 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/BuildingMicroserviceswithJavaScript/pulls)
 
 # BuildingMicroserviceswithJavaScript
-Google Cloud Platform (GCP) provides autoscaling compute power and distributed in-memory cache, task queues, and datastores to write, build, and deploy Cloud-hosted applications.
+Microservices are a popular way to build distributed systems that power modern web and mobile apps. With the help of this Learning Path, you'll learn how to develop your applications as a suite of independently deployable and scalable services.
 
-This course will help you develop and deploy scalable applications from scratch and make them globally available in almost any language. This course will guide you in designing, deploying, and managing applications running on Google Cloud. You’ll start with App Engine and move on to work with Container Engine, compute engine, and cloud functions. You’ll learn how to integrate your new applications with the various data solutions on GCP, including Cloud SQL, Bigtable, and Cloud Storage. The next installment of the course starts with practical recipes that explain how to utilize Google Cloud's common services. There are recipes on implementing authentication and security, Cloud APIs, command-line management, deployment management, and the Cloud SDK. Finally, we'll cover administration troubleshooting tasks with the Compute and Container Engines and we'll show how to monitor your organization's efficiency with best practices.
+Using an example-driven approach, this Learning Path will uncover how you can dismantle your monolithic application and embrace microservice architecture, right from architecting your services and modeling them to integrating them into your application. You’ll also explore ways to overcome challenges in testing and deploying these services by setting up deployment pipelines that break down the application development process into several stages. You’ll study serverless architecture for microservices and understand its benefits. Furthermore, this Learning Path delves into the patterns used for organizing services, helping you optimize request handling and processing. You'll then move on to learn the fault-tolerance and reliability patterns that help you use microservices to isolate failures in your applications.
 
-By the end of this course, you’ll be well-versed with all the development tools of Google Cloud Platform, and you’ll develop, deploy, and manage highly scalable and reliable applications.
+By the end of this Learning Path, you’ll have the skills necessary to build enterprise-ready applications using microservices.
 
-Building Google Cloud Platform Solutions by **Patrick Cornelißen**, **Michael Piefel**, and **Alexander Sparkowsky**. 
+Building Microservices with JavaScript by **Diogo Resende** and **Paul Osman**. 
 
 ## What you will learn
-* Implement Google Cloud services in your organization
-* Deploy and run services on managed platforms such as App Engine and Container Engine
-* Securely maintain application states with Cloud Storage, Datastore, and Bigtable
-* Configure a network for a highly available application on GCP
-* Learn simple image processing using Storage and Cloud Functions
-* Automate security checks using Policy Scanner
-* Understand tools for monitoring a production environment in GCP
+* Use Docker and Swarm for continuous deployment and scaling
+* Build and deploy cloud-native microservices and avoid vendor lock-in
+* Explore different service architectures such as Hydra and Seneca
+* Create services that don’t impact users upon failure
+* Monitor your services to perform debugging and create observable systems
+* Develop fast and reliable deployment pipelines
+* Manage multiple environments for your services
+* Simplify the local development of microservice-based systems
 
 ### Hardware requirements
 For an optimal student experience, we recommend the following hardware configuration:
