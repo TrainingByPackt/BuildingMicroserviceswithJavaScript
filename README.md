@@ -30,7 +30,7 @@ For an optimal student experience, we recommend the following hardware configura
 
 ### Software requirements
 You’ll also need the following software installed in advance:
-* **Operating system**: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit, macOS High Sierra or Linux
+* **Operating system**: Windows 7, 8.1 or 10 64-bit, macOS High Sierra or Linux
 * **Browser**: Google Chrome, Latest Version
 
 
