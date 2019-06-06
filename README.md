@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/BuildingMicroserviceswithJavaScript.svg)](https://github.com/TrainingByPackt/BuildingMicroserviceswithJavaScript/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/BuildingMicroserviceswithJavaScript/pulls)
 
-# BuildingMicroserviceswithJavaScript
+# Building Microservices with JavaScript
 Microservices are a popular way to build distributed systems that power modern web and mobile apps. With the help of this Learning Path, you'll learn how to develop your applications as a suite of independently deployable and scalable services.
 
 Using an example-driven approach, this Learning Path will uncover how you can dismantle your monolithic application and embrace microservice architecture, right from architecting your services and modeling them to integrating them into your application. You’ll also explore ways to overcome challenges in testing and deploying these services by setting up deployment pipelines that break down the application development process into several stages. You’ll study serverless architecture for microservices and understand its benefits. Furthermore, this Learning Path delves into the patterns used for organizing services, helping you optimize request handling and processing. You'll then move on to learn the fault-tolerance and reliability patterns that help you use microservices to isolate failures in your applications.
